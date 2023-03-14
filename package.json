@@ -1,8 +1,9 @@
 {
-  "name": "health-app-project",
+  "name": "slim-mom-health-app",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://aniyavolfman.github.io/health-app-project/",
+   "homepage": "https://chernyshenkoi.io/health-app-project/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
